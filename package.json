@@ -1,21 +1,22 @@
 {
-  "name": "burger",
+  "name": "burger-fullstack",
   "version": "1.0.0",
-  "description": "A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!)",
-  "main": "index.js",
+  "description": "",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jakadamko/burger.git"
+    "url": "git+https://github.com/rayovims/Burger-FullStack.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jakadamko/burger/issues"
+    "url": "https://github.com/rayovims/Burger-FullStack/issues"
   },
-  "homepage": "https://github.com/jakadamko/burger#readme",
+  "homepage": "https://github.com/rayovims/Burger-FullStack#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
